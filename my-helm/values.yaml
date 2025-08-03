@@ -1,0 +1,6 @@
+phpnginx:
+  replicaCount: 2
+
+  image:
+    repository: cybersenpa1/myapp
+    tag       : v1
