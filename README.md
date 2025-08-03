@@ -1,4 +1,3 @@
-```markdown
 # Nginx + PHP-FPM Docker Solution
 
 [![Docker](https://img.shields.io/badge/Docker-✓-blue?logo=docker)](https://www.docker.com/)
@@ -59,7 +58,5 @@ http://localhost:8080/
 ## 🤝 Как можно помочь
 - Хотите улучшить? Форкните и присылайте PR!
 
----
 
 📌 **Протестировано на**: Docker 20+, Nginx 1.29, PHP 7.4/8.0/8.2
-```
